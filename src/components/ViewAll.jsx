@@ -5,8 +5,9 @@ const ViewAll = () => {
   return (
     <div>
         <br />
-        <h1><center>Book Details</center></h1><br />
+        
         <NavBar/>
+        <h1><center>Book Details</center></h1><br />
         <br />
      
         <div className="container">
